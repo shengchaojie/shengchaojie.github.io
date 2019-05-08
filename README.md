@@ -1,3 +1,8 @@
+# 联系方式
+- 手机：13388611621
+- Email：shengchaojie@163.com
+- 微信：chaojiesuper
+
 # 个人信息
 
  - 盛超杰/男/1992
@@ -33,4 +38,25 @@
 ### 单点登陆以及权限中心项目
 - 核心开发 
 - 文档沉淀，以及接入其他项目
+
+# 开源项目和作品
+## 开源项目
+- 感觉拿不出手
+
+## 技术文章
+- 待补充
+
+# 技能清单
+
+以下均为我熟练使用的技能
+
+- 前端框架：React/ANTD
+- java框架：Spring/Dubbo/TTL/Guava/Mybatis/Disconf/ElasticJob等
+- 数据库相关：MySQL/MongoDB/Redis
+- 中间件相关：RocketMQ/Zookeeper/Logstash/FileBeat等
+- 容器相关：Docker/Rancher
+- 其他工具：Charles/plantUML/OmniGraffle/Xmind
+
+# 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
 
