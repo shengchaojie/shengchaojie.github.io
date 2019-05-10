@@ -11,7 +11,7 @@
  - 技术博客：[https://www.jianshu.com/u/eccd5acf909e](https://www.jianshu.com/u/eccd5acf909e)
 
  - 期望职位：资深Java开发工程师
- - 期望薪资：税前月薪25~30K，特别喜欢的公司可例外
+ - 期望薪资：税前月薪20~30K，特别喜欢的公司可例外
  - 期望城市：杭州
 
 
