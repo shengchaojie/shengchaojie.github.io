@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
 title: 盛超杰的简历
 description: 逆风翻盘 曲线救国
+site.show_downloads: true
