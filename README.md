@@ -10,7 +10,6 @@
  - 工作年限：5年
  - 技术博客：[https://www.jianshu.com/u/eccd5acf909e](https://www.jianshu.com/u/eccd5acf909e)
  - Github: [https://github.com/shengchaojie](https://github.com/shengchaojie)
-
  - 期望职位：资深Java开发工程师
  - 期望薪资：税前月薪24~30K，特别喜欢的公司可例外
  - 期望城市：杭州
