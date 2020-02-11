@@ -92,6 +92,10 @@
 - 容器相关：Docker/Rancher
 - 其他工具：Charles/plantUML/OmniGraffle/XMind
 
+开源项目
+/[spring-strategy-extend](https://github.com/dsc-cmt/spring-strategy-extend)
+/[dubbo-easy-mock](https://github.com/dsc-cmt/dubbo-easy-mock)
+
 # 最后
 
 我希望我未来加入的公司是以价值为导向。
