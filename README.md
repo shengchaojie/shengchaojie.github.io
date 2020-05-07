@@ -6,8 +6,8 @@
 # 个人信息
 
  - 盛超杰/男/1992
- - 本科/浙江海洋大学计算机系/14届
- - 工作年限：5年
+ - 本科/浙江海洋大学计算机系/10届
+ - 工作年限：6年
  - 技术博客：[https://www.jianshu.com/u/eccd5acf909e](https://www.jianshu.com/u/eccd5acf909e)
  - 期望职位：资深Java开发工程师
  - 期望薪资：税前月薪25~30K，特别喜欢的公司可例外
@@ -86,14 +86,14 @@
 以下均为我熟练使用的技能
 
 - 前端框架：React/ANTD
-- java框架：Spring/Dubbo/Guava/Mybatis/Disconf/ElasticJob/Swagger等
+- java框架：Spring/Dubbo/Guava/Mybatis/Apollo/ElasticJob/Swagger等
 - 数据库相关：MySQL/MongoDB/Redis
 - 中间件相关：RocketMQ/Zookeeper/Logstash/FileBeat等
 - 容器相关：Docker/Rancher
 - 其他工具：Charles/plantUML/OmniGraffle/XMind
 
 开源项目
-- spring-strategy-extend(https://github.com/dsc-cmt/spring-strategy-extend)
+- spring-easy-strategy(https://github.com/dsc-cmt/spring-easy-strategy)
 - dubbo-easy-mock(https://github.com/dsc-cmt/dubbo-easy-mock)
 
 # 最后
