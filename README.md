@@ -6,26 +6,46 @@
 # 个人信息
 
  - 盛超杰/男/1992
- - 本科/浙江海洋大学计算机系/10届
+ - 本科/浙江海洋大学/计算机科学与技术/14届
  - 工作年限：6年
  - 技术博客：[https://www.jianshu.com/u/eccd5acf909e](https://www.jianshu.com/u/eccd5acf909e)
  - 期望职位：资深Java开发工程师
- - 期望薪资：税前月薪25~30K，特别喜欢的公司可例外
+ - 期望薪资：税前月薪25~35K
  - 期望城市：杭州
-
 
 # 工作经历
 
 ## 大搜车 （ 2018年10月 ~ 至今 ）
+
+### 金服开放平台
+开放大搜车汽车金融业务多年沉淀下来能力，开放方式为功能开放和接口开放，目前开放能力有风控报告，车型库，车辆估价，抵押/解抵押/GPS安装工单，保险/保养/维保/驾驶证/行驶证/vin码查询。
+
+- 核心开发，技术PM
+- 金服平台基础能力建设，建设运营端和商户端，提供基础能力，比如商户管理，产品管理，团队管理，菜单插件管理等，其中功能开放通过菜单插件实现
+- 对接各业务方接口，对外提供能力
+- 基础服务单点登录starter改造，增加组织结构相关api，方便业务方入驻金服平台以及开发数据权限
+
+
+### 金服开放网关
+用于支撑金服开放平台接口能力开放
+
+- 核心开发，技术PM
+- 从技术侧，产品侧推动该项目从0到1落地
+- 以插件的形式集成进入金服开放平台
+- 使用dubbo泛化调用特性完成外部http转内部dubbo接口调用
+- 核心设计采用基于zuul filter的责任链设计模式，以插件的形式解耦调用链上的校验(PRE)，验签(PRE)，调用统计(ROUND)，白名单(ROUND)，泛化调用(ROUND)，异常处理(EXCEPTION)，结果返回(RESPONSE)等功能，
+- 基于公司已有dubbo-doc方案，从zookeeper提取接口元信息生成接口文档
+- SDK开发，方便java使用方快速接入
+
 ### 商城中台
 商城中台用于给各个业务方提供电商能力，快速完成业务线上化，包含交易，履约，商品，供应商4个领域，目前接入弹个车保险，保养，里程包，补办，家选商城，家选批发商城6个业务。
 
 - 核心开发，技术PM
 - 负责交易域开发及重构
 - 逻辑服务化拆分，DDD重构
-- 沉淀统一下单模型，解决分布式事务(编程式事务+异步重试)
+- 沉淀统一下单模型，处理分布式事务(编程式事务+异步重试)
 - 商品搜索ES改造
-- 策略框架开源及推广 
+- 策略框架开源及推广
 - 远程spi框架设计及开发
 - 编码质量改进计划(单元测试，持续集成)
 
@@ -57,31 +77,7 @@
 - 支持前后端分离项目以及jsp项目
 - RBAC权限控制
 
-## 汽车超人(2017年2月 ~ 2017年9月)
-### 客服工单
-- 工作流模块的开发及维护
-- 用户反馈模块的开发及维护
-- 需求系分，接口文档书写，单元测试，联调
-- 解决线上问题
-
-## 税友(2016年4月 ~ 2017年2月)
-### 税务系统
-- 负责个税局端系统的需求分析、设计、编码、开发文档书写等开发工作
-- 负责系统的优化和重构工作，保证系统的稳定运行
-- 负责系统对外接口的开发及维护
-
-## 网新恒天（2014年7月 ~ 2016年4月）
-### 报表系统
-- 对世界前几大投资银行的核心金融报表结算系统进行功能开发及维护。
-- 开发道富银行托管结算系统。
-- 项目以gwtext框架为主体，解决项目中一些难点。
-
 # 技能清单
-
-以下是我阅读过源码的部分开源项目
-- Dubbo
-- RocketMQ
-- Spring
 
 以下均为我熟练使用的技能
 
@@ -92,9 +88,14 @@
 - 容器相关：Docker/Rancher
 - 其他工具：Charles/plantUML/OmniGraffle/XMind
 
-开源项目
-- spring-easy-strategy(https://github.com/dsc-cmt/spring-easy-strategy)
-- dubbo-easy-mock(https://github.com/dsc-cmt/dubbo-easy-mock)
+作品
+- 基于spring的策略模式框架(https://github.com/dsc-cmt/spring-easy-strategy)
+- dubbo接口mock框架(https://github.com/dsc-cmt/dubbo-easy-mock)
+- dubbo接口mock框架agent版本(https://github.com/dsc-cmt/dubbo-easy-mock-agent)
+- 基于dubbo的远程spi平台(https://github.com/dsc-cmt/Extension)
+- 基于dubbo的远程spi框架(https://github.com/shengchaojie/dubbo_remote_spi)
+- 基于shiro的单点登陆方案(https://github.com/shengchaojie/shiro-sso-demo)
+- 开放平台SDK(https://github.com/dsc-finance-open/yama-open-sdk)
 
 # 最后
 
